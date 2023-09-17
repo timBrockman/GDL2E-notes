@@ -10,7 +10,7 @@
    -  CH 6 Normalizing Flow Models
    -  CH 7 Energy-Based Models
    -  CH 8 Diffusion Models
- -  Part 3 Applications
+ - Part 3 Applications
    -  CH 9 Transformers
    -  CH 10 Advanced GANs
    -  CH 11 Music Generation
