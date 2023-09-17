@@ -45,8 +45,37 @@
 
 ## Part 3 Applications
 ### CH 9 Transformers
+ - A. GPT
+ - B. Other Transformers
+ - C. Summary
 ### CH 10 Advanced GANs
+ - A. ProGAN
+ - B. StyleGAN
+ - C. StyleGAN2
+ - D. Other Important GANs
+ - E. Summary
 ### CH 11 Music Generation
+ - A. Transformers for Music Generation
+ - B. MuseGAN
+ - C. Summary
 ### CH 12 World Models
+ - A. Reinforcment Learning
+ - B. World Model Overview
+ - C. Collecting Random Rollout Data
+ - D. Training the VAE
+ - E. Collecting Data to Train the MDN-RNN
+ - F. Training the MDN-RNN
+ - G. Training the Controller
+ - H. In-Dream Training
+ - I. Summary
 ### CH 13 Multimodal Models
+ - A. DALLE2
+ - B. Imagen
+ - C. Stable Diffusion
+ - D. Flamingo
+ - E. Summary
 ### CH 14 Conclusion
+ - A. Timeline of Generative AI
+ - B. The Current State of Generative AI
+ - C. The Future of Generative AI
+ - D. Final Thoughts
