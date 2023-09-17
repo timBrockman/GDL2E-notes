@@ -1,5 +1,23 @@
 # Generative Deep Learning Notes
 
+ - Part 1 Intro to Generative Deep Learning
+  -  CH 1 Generative Modeling
+  -  CH 2 Deep Learning
+ - Part 2 Methods
+  -  CH 3 Variational Autoencoders
+  -  CH 4 Generative Adversarial Networks
+  -  CH 5 Autoregressive Models
+  -  CH 6 Normalizing Flow Models
+  -  CH 7 Energy-Based Models
+  -  CH 8 Diffusion Models
+ -  Part 3 Applications
+  -  CH 9 Transformers
+  -  CH 10 Advanced GANs
+  -  CH 11 Music Generation
+  -  CH 12 World Models
+  -  CH 13 Multimodal Models
+  -  CH 14 Conclusion
+  
 ## Part 1 Intro to Generative Deep Learning
 ### CH 1 Generative Modeling
  - A. What is Generative Modeling
