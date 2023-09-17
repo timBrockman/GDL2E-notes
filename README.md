@@ -1,6 +1,6 @@
 # Generative Deep Learning Notes
 
- - Part 1 Intro to Generative Deep Learning
+ - [Part 1 Intro to Generative Deep Learning](#Part-1-Intro-to-Generative-Deep-Learning)
    -  CH 1 Generative Modeling
    -  CH 2 Deep Learning
  - Part 2 Methods
