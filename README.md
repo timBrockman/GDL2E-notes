@@ -4,7 +4,7 @@ Notes based on [Generative Deep Learning 2nd Edition](https://www.oreilly.com/li
 
 Here is the book's Repo: [https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)
 
-Here's a Machine Learning Street Talk inteview with the Author following the books release [https://www.youtube.com/watch?v=CTA7-Bsa9U4](https://www.youtube.com/watch?v=CTA7-Bsa9U4)
+Here's a Machine Learning Street Talk inteview with the Author following the book's 2nd edition release [https://www.youtube.com/watch?v=CTA7-Bsa9U4](https://www.youtube.com/watch?v=CTA7-Bsa9U4)
 
  - [Part 1 Intro to Generative Deep Learning](#Part-1-Intro-to-Generative-Deep-Learning)
    -  [CH 1 Generative Modeling](#CH-1-Generative-Modeling)
