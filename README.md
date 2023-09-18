@@ -21,38 +21,38 @@
 ## Part 1 Intro to Generative Deep Learning
 ### CH 1 Generative Modeling
  - A. What is Generative Modeling
-  - Generative vs. Discriminative Modeling
-  - The Rise of Generative Modeling
-  - Generative Modeling and AI 
+   - Generative vs. Discriminative Modeling
+   - The Rise of Generative Modeling
+   - Generative Modeling and AI 
  - B. Our first Generative Model
-  - Hello World!
-  - The Generative Modeling Framework
-  - Representational Learning 
+   - Hello World!
+   - The Generative Modeling Framework
+   - Representational Learning 
  - C. Core Probability Theory 
  - D. Generative Model Taxonomy
  - E. The Generative Deep Learning Code Base
-  - Cloning the Repository
-  - Using Docker
-  - Running on a GPU 
+   - Cloning the Repository
+   - Using Docker
+   - Running on a GPU 
  - Summary
 ### CH 2 Deep Learning
  - A. Data for Deep Learning
  - B. Deep Neural Networks
-  - What is a Neural Network?
-  - Learning High-Level Features
-  - TensorFlow and Keras
+   - What is a Neural Network?
+   - Learning High-Level Features
+   - TensorFlow and Keras
  - C. Multilayer Perceptron (MLP)
-  - Preparing the Data
-  - Building the Model
-  - Compiling the Model
-  - Training the Model
-  - Evaluating the Model
+   - Preparing the Data
+   - Building the Model
+   - Compiling the Model
+   - Training the Model
+   - Evaluating the Model
  - D. Convoluted Neural Networks
-  - Convolutional Layers
-  - Batch Normalization
-  - Dropout
-  - Building the CNN
-  - Training and Evaluating the CNN
+   - Convolutional Layers
+   - Batch Normalization
+   - Dropout
+   - Building the CNN
+   - Training and Evaluating the CNN
  - E. Summary
 
 ## Part 2 Methods
