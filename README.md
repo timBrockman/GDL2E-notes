@@ -1,5 +1,11 @@
 # Generative Deep Learning Notes
 
+Notes based on [Generative Deep Learning 2nd Edition](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) by [David Foster](https://github.com/davidADSP)
+
+Here is the book's Repo: [https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)
+
+Here's Machine Learning Street Talk inteview with the Author [https://www.youtube.com/watch?v=CTA7-Bsa9U4](https://www.youtube.com/watch?v=CTA7-Bsa9U4)
+
  - [Part 1 Intro to Generative Deep Learning](#Part-1-Intro-to-Generative-Deep-Learning)
    -  [CH 1 Generative Modeling](#CH-1-Generative-Modeling)
    -  [CH 2 Deep Learning](#CH-2-Deep-Learning)
