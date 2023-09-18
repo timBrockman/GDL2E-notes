@@ -167,36 +167,110 @@ Here's a Machine Learning Street Talk inteview with the Author following the boo
 ## Part 3 Applications
 ### CH 9 Transformers
  - A. GPT
+   - The Wine Reviews Dataset
+   - Attention
+   - Queries, Keys and Values
+   - Multihead Attention
+   - Causal Masking
+   - the Transformer Block
+   - Positional Encoding
+   - Training GPT
+   - Analysis of GPT
  - B. Other Transformers
+   - T5
+   - GPT-3 and GPT-4
+   - ChatGPT
  - C. Summary
 ### CH 10 Advanced GANs
  - A. ProGAN
+   - Progressive Training
+   - Outputs
  - B. StyleGAN
+   - The Mapping Network
+   - The Synthesis Network
+   - Outputs from StyleGAN
  - C. StyleGAN2
+   - Weight Modulation and Demodulation
+   - Path Lenght Regularization
+   - No Progressive Growing
+   - Outputs from StyleGAN2
  - D. Other Important GANs
+   - Self-Attention GAN (SAGAN)
+   - BigGAN
+   - VQ-GAN
+   - ViT VQ-GAN
  - E. Summary
 ### CH 11 Music Generation
  - A. Transformers for Music Generation
+   - The Back Cello Suite Dataset
+   - Parsing MIDI Files
+   - Tokenization
+   - Creating the Training set
+   - Sine Position Encoding
+   - Multiple Inputs and Outputs
+   - Analysis of the Music-Generationg Transformer
+   - Tokenization of Polyphonic Music
  - B. MuseGAN
+   - The Back Chorale Dataset
+   - The MuseGAN Generator
+   - The MuseGAN Critic
+   - Analysis of the MuseGAN
  - C. Summary
 ### CH 12 World Models
  - A. Reinforcment Learning
+   - The CarRacing Environment
  - B. World Model Overview
+   - Architecture
+   - Training
  - C. Collecting Random Rollout Data
  - D. Training the VAE
+   - The VAE Architecture
+   - Exploring the VAE
  - E. Collecting Data to Train the MDN-RNN
  - F. Training the MDN-RNN
+   - The MDN-RNN Architecture
+   - Sampling from the MDN-RNN
  - G. Training the Controller
+   - The Controller Architecture
+   - CMA-ES
+   - Parallelizing CMA-ES
  - H. In-Dream Training
  - I. Summary
 ### CH 13 Multimodal Models
  - A. DALLE2
+   - Architecture
+   - The Text Encoder
+   - CLIP
+   - The Prior
+   - The Decoder
+   - Examples from DALLE2
  - B. Imagen
+   - Architecture
+   - DrawBench
+   - Examples from Imagen
  - C. Stable Diffusion
+   - Architecture
+   - Examples from Stable Diffusion
  - D. Flamingo
+   - Architecture
+   - The Vision Encoder
+   - The Perceiver Resampler
+   - The Language Model
+   - Examples from Flamingo
  - E. Summary
 ### CH 14 Conclusion
  - A. Timeline of Generative AI
+   - 2014-2017: The VAE and GAN Era
+   - 2018-2019: The Transformer Era
+   - 2020-2022: the Big Model Era
  - B. The Current State of Generative AI
+   - Large Language Models
+   - Text-to-Code Models
+   - Text-to-Image Models
+   - Other Applications
  - C. The Future of Generative AI
+   - Generative AI in Everyday Life
+   - Generative AI in the Workplace
+   - Generative AI in Education
+   - Generative AI Ethics and Challenges 
  - D. Final Thoughts
