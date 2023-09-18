@@ -58,29 +58,104 @@
 ## Part 2 Methods
 ### CH 3 Variational Autoencoders
  - A. Autoencoders
+   - The Fashion-MNIST Dataset
+   - The Autoencoder Architecture
+   - The Encoder
+   - The Decoder
+   - Joining the Encoder to the Decoder
+   - Reconstructing Images
+   - Visualizing the Latent Space
+   - Generating New Images 
  - B. Variational Autoencoders
+   - The Encoder
+   - The Loss Function
+   - Training the Variational Autoencoder
+   - Analysis of the Variational Autoencoder 
  - C. Exploring Latent Space
+   - The CelebA Dataset
+   - Training the Variational Autoencoder
+   - Analysis of the Variational Autoencoder
+   - Generating New Faces
+   - Latent Space Arithmetic
+   - Morphing Between Faces
  - D. Summary
 ### CH 4 Generative Adversarial Networks
  - A. Deep Convolutional GAN (DCGAN)
+   - The Bricks Dataset
+   - The Discriminator
+   - The Generator
+   - Training the DCGAN
+   - Analysis of the DCGAN
+   - GAN Training: Tips and Tricks 
  - B. Wasserstein GAN with Gradient Penalty (WGAN-GP)
+   - Wasserstein Loss
+   - The Lipschitz Constraint
+   - Enforcing the Lipschitz Contstraint
+   - The Gradient Penalty Loss
+   - Training the WGAN-GP
+   - Analysis of the WGAN-GP
  - C. Conditional GAN (CGAN)
+   - CGAN Architecture
+   - Training the CGAN
+   - Analysis of the CGAN 
  - D. Summary
 ### CH 5 Autoregressive Models
  - A. Long Short-Term Memory Network (LSTM)
+   - The Recipes Dataset
+   - Working with Text Data
+   - Tokenization
+   - Creating the Training Set
+   - The LSTM Architecture
+   - The Embedding Layer
+   - The LSTM Layer
+   - The LSTM Cell
+   - Training the LSTM
+   - Analysis of the LSTM 
  - B. Recurrent Neural Network (RNN) Extensions
+   - Stacked Recurrent Networks
+   - Gated Recurrent Units
+   - Bidirectional Cells
  - C. PixelCNN
+   - Masked Convolutional Layers
+   - Risidual Blocks
+   - Training the PixelCNN
+   - Analysis of the PixelCNN
+   - Mixture Distributions
  - D. Summary
 ### CH 6 Normalizing Flow Models
  - A. Normalizing Flows
+   - Change of Variables
+   - The Jacobian Determinant
+   - The Change of Variables Equation
  - B. RealNVP
+   - The Two Moons Dataset
+   - Coupling Layers
+   - Training the RealNVP Model
+   - Analysis of the RealNVP Model
  - C. Other Normalizing Flow Models
+   - GLOW
+   - FFJORD
  - D. Summary
 ### CH 7 Energy-Based Models
  - A. Energy-Based Models
+   - The MNIST Dataset
+   - The Energy Function
+   - Sampling Using Langevin Dynamics
+   - Training with Contrastive Divergence
+   - Analysis of the Energy-Based Model
+   - Other Energy-Based Models
  - B. Summary
 ### CH 8 Diffusion Models
  - A. Denoising Diffusion Models (DMM)
+   - The Flowers Dataset
+   - The Forward Diffusion Process
+   - The Reparameterization Trick
+   - Diffusion Schedules
+   - The Reverse Diffusion Process
+   - The U-Net Denoising Model
+   - Training the Diffusion Model
+   - Sampling from the Denoising Diffusion Model
+   - Analysis of the Diffusion Model
  - B. Summary
 
 ## Part 3 Applications
