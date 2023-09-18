@@ -26,7 +26,7 @@ Here's a Machine Learning Street Talk inteview with the Author following the boo
   
 ## Part 1 Intro to Generative Deep Learning
 ### CH 1 Generative Modeling
- - A. What is Generative Modeling
+ - A. What is Generative Modeling?
    - Generative vs. Discriminative Modeling
    - The Rise of Generative Modeling
    - Generative Modeling and AI 
